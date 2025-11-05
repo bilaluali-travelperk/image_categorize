@@ -1,0 +1,88 @@
+Image path: images/edition_barcelona/detail2.jpg
+Categorization: category=<HotelImageCategory.BATHROOM: 'Bathroom'> reason='The image displays hotel-branded shower gel and bath grains, which are amenities typically found in a hotel bathroom.' input_tokens=399 output_tokens=344
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 344
+Image path: images/edition_barcelona/restaurant2.jpg
+Categorization: category=<HotelImageCategory.RESTAURANTS_BAR: 'Restaurants / Bar'> reason='The image clearly depicts a fully stocked bar with numerous bottles, hanging glassware, a bar counter, and bar stools, indicating a dedicated bar area.' input_tokens=399 output_tokens=283
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 283
+Image path: images/edition_barcelona/batrhoom1.jpg
+Categorization: category=<HotelImageCategory.BATHROOM: 'Bathroom'> reason='The image clearly depicts a modern hotel bathroom featuring a sink, mirror, bathtub, and shower area with a city view.' input_tokens=399 output_tokens=218
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 218
+Image path: images/edition_barcelona/lobby1.jpg
+Categorization: category=<HotelImageCategory.LOBBY_COMMON_AREA: 'Lobby / Common Area'> reason="The image displays a grand spiral staircase and a decorative chair within a stylish, well-lit space, indicative of a hotel's public entrance or common area." input_tokens=399 output_tokens=296
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 296
+Image path: images/edition_barcelona/detail1.jpg
+Categorization: category=<HotelImageCategory.MISCELLANEOUS_DETAILS: 'Miscellaneous / Details'> reason='The image displays decorative tiles on a wooden board, which are considered miscellaneous details rather than a primary feature of a specific hotel area.' input_tokens=399 output_tokens=267
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 267
+Image path: images/edition_barcelona/restaurant1.jpg
+Categorization: category=<HotelImageCategory.RESTAURANTS_BAR: 'Restaurants / Bar'> reason='The image displays an outdoor dining area with multiple tables set for meals, indicating a restaurant or bar.' input_tokens=399 output_tokens=213
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 213
+Image path: images/edition_barcelona/lobby2.jpg
+Categorization: category=<HotelImageCategory.LOBBY_COMMON_AREA: 'Lobby / Common Area'> reason="The image displays a modern interior space with dramatic lighting, characteristic of a hotel's public or transitional area like a lobby or hallway." input_tokens=399 output_tokens=401
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 401
+Image path: images/edition_barcelona/room.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image displays a hotel bedroom furnished with two beds, a desk, and a television, characteristic of a guest room.' input_tokens=399 output_tokens=117
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 117
+Image path: images/edition_barcelona/gym.jpg
+Categorization: category=<HotelImageCategory.FACILITIES_AMENITIES: 'Facilities (Amenities)'> reason='The image displays a hotel gym equipped with treadmills, weights, and other exercise machines, which are considered amenities.' input_tokens=399 output_tokens=111
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 111
+Image path: images/edition_barcelona/bathroom2.jpg
+Categorization: category=<HotelImageCategory.BATHROOM: 'Bathroom'> reason='The image prominently features a bathtub with fixtures and a towel, which are key elements of a hotel bathroom.' input_tokens=399 output_tokens=241
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 241
+Image path: images/edition_barcelona/bathroom1.jpg
+Categorization: category=<HotelImageCategory.BATHROOM: 'Bathroom'> reason='The image prominently features a modern bathroom with a sink, mirror, bathtub, and shower area, indicating it is a hotel bathroom.' input_tokens=399 output_tokens=181
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 181
+Image path: images/edition_barcelona/room4.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image clearly depicts a bedroom with a bed, a seating area, and an attached private balcony, which are all features of a hotel guest room.' input_tokens=399 output_tokens=308
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 308
+Image path: images/edition_barcelona/room5.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image displays a furnished living area with sofas, a coffee table, and a television, characteristic of a hotel suite or a spacious guest room.' input_tokens=399 output_tokens=273
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 273
+Image path: images/edition_barcelona/room6.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image displays a private dining area combined with a living space, characteristic of a hotel suite or a large guest room.' input_tokens=399 output_tokens=263
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 263
+Image path: images/edition_barcelona/room3.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image displays a seating area with a sofa and a large window offering a city view, characteristic of a hotel guest room or suite.' input_tokens=399 output_tokens=226
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 226
+Image path: images/edition_barcelona/room1.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image displays a well-furnished living area with a sofa, armchair, and coffee table, characteristic of a hotel guest room or suite.' input_tokens=399 output_tokens=239
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 239
+Image path: images/edition_barcelona/facade.jpg
+Categorization: category=<HotelImageCategory.EXTERIOR_FACADE: 'Exterior / Facade'> reason='The image primarily showcases the outside structure and architectural design of the hotel building, including its facade and rooftop amenities.' input_tokens=399 output_tokens=485
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 485
+TOTAL IMAGES: 17
+TOTAL INPUT TOKENS: 6783
+TOTAL OUTPUT TOKENS: 4466

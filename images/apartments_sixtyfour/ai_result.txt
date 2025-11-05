@@ -1,0 +1,28 @@
+Image path: images/apartments_sixtyfour/other1.jpg
+Categorization: category=<ApartmentImageCategory.EXTERIOR_BUILDING: 'Exterior / Building'> reason='The image displays the grand entrance and lobby area of the building, including a view of the street outside.' input_tokens=424 output_tokens=565
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 424
+OUTPUT TOKENS: 565
+Image path: images/apartments_sixtyfour/exterior1.jpg
+Categorization: category=<ApartmentImageCategory.VIEW_BALCONY: 'View / Balcony'> reason='The image captures an outdoor scene with a street, cafe, and trees, viewed from what appears to be a balcony or window of a building, indicated by the visible awning and column.' input_tokens=424 output_tokens=585
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 424
+OUTPUT TOKENS: 585
+Image path: images/apartments_sixtyfour/living2.jpg
+Categorization: category=<ApartmentImageCategory.LIVING_DINING: 'Living / Dining'> reason='The image features a sofa, chairs, a coffee table, and a television, which are typical furnishings found in a living or dining area.' input_tokens=424 output_tokens=257
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 424
+OUTPUT TOKENS: 257
+Image path: images/apartments_sixtyfour/living1.jpg
+Categorization: category=<ApartmentImageCategory.LIVING_DINING: 'Living / Dining'> reason='The image displays a sofa, coffee table, television, and a large window, which are typical features of a living or dining area.' input_tokens=424 output_tokens=261
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 424
+OUTPUT TOKENS: 261
+Image path: images/apartments_sixtyfour/room1.jpg
+Categorization: category=<ApartmentImageCategory.BEDROOM: 'Bedroom'> reason='The image clearly displays a bed with a headboard, nightstands, and wardrobes, indicating it is a bedroom.' input_tokens=424 output_tokens=257
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 424
+OUTPUT TOKENS: 257
+TOTAL IMAGES: 5
+TOTAL INPUT TOKENS: 2120
+TOTAL OUTPUT TOKENS: 1925

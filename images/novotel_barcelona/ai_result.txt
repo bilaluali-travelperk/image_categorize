@@ -1,0 +1,43 @@
+Image path: images/novotel_barcelona/facilities.jpg
+Categorization: category=<HotelImageCategory.FACILITIES_AMENITIES: 'Facilities (Amenities)'> reason='The image displays a hotel rooftop area featuring a swimming pool, lounge chairs, and outdoor seating, which are all considered amenities provided by the hotel.' input_tokens=399 output_tokens=400
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 400
+Image path: images/novotel_barcelona/restaurant2.jpg
+Categorization: category=<HotelImageCategory.RESTAURANTS_BAR: 'Restaurants / Bar'> reason='The image displays a dining area with tables, chairs, banquette seating, and a visible bar or beverage cooler in the background, indicating a restaurant or bar setting.' input_tokens=399 output_tokens=295
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 295
+Image path: images/novotel_barcelona/detail1.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason="The image displays a Nespresso machine, coffee cups, and a welcome card explicitly mentioning 'HABITACIÓ | ROOM', indicating amenities typically found within a hotel guest room." input_tokens=399 output_tokens=373
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 373
+Image path: images/novotel_barcelona/restaurant1.jpg
+Categorization: category=<HotelImageCategory.RESTAURANTS_BAR: 'Restaurants / Bar'> reason='The image displays a buffet setup with various food items, coffee machines, and dining tables, clearly indicating a restaurant or dining area within a hotel.' input_tokens=399 output_tokens=268
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 268
+Image path: images/novotel_barcelona/exterior.jpg
+Categorization: category=<HotelImageCategory.FACILITIES_AMENITIES: 'Facilities (Amenities)'> reason='The image prominently displays a hotel rooftop area featuring lounge seating and a pool, which are key guest amenities.' input_tokens=399 output_tokens=1138
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 1138
+Image path: images/novotel_barcelona/room4.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image displays a corner of a room with a suitcase and shoes, characteristic of a hotel guest room, featuring large windows with a city view.' input_tokens=399 output_tokens=213
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 213
+Image path: images/novotel_barcelona/room3.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image clearly depicts a hotel room with a bed, a desk, a TV, and a person enjoying the view from a large window, all characteristic elements of a guest room.' input_tokens=399 output_tokens=218
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 218
+Image path: images/novotel_barcelona/room1.jpg
+Categorization: category=<HotelImageCategory.GUEST_ROOM: 'Guest Room'> reason='The image displays a hotel room featuring a bed, a desk, a sofa, and a window, which are all characteristic elements of a guest room.' input_tokens=399 output_tokens=254
+----------------------------------------------------------------------------------------------------
+INPUT TOKENS: 399
+OUTPUT TOKENS: 254
+TOTAL IMAGES: 8
+TOTAL INPUT TOKENS: 3192
+TOTAL OUTPUT TOKENS: 3159
